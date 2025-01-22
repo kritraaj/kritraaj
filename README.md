@@ -27,9 +27,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" 
-    onclick="showDiscordID()"/>
-  <a href="lgrandiduchethina@gmail.com" target="_blank">
+  <a href="mailto:?subject=Discord Friend Request&body=Hey! My Discord ID is cheth_unknown. Please send me a friend request.">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+  </a>
+  <a href="mailto:lgrandiduchethina@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
   <a href="https://www.youtube.com/@cheth_unknown" target="_blank">
@@ -37,21 +38,8 @@
   </a>
 </div>
 
-<!-- Modal for Discord ID -->
-<div id="discord-modal" style="display:none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 20px; background-color: #ffffff; border: 1px solid #000; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); z-index: 1000;">
-  <p>My Discord ID is <strong>cheth_unknown</strong>. Please send me a friend request!</p>
-  <button onclick="closeModal()">Close</button>
-</div>
 
-<script>
-  function showDiscordID() {
-    document.getElementById('discord-modal').style.display = 'block';
-  }
 
-  function closeModal() {
-    document.getElementById('discord-modal').style.display = 'none';
-  }
-</script>
 
 
 
