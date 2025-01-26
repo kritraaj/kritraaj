@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cheth and I'm an IT Student from Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is Cheth and I'm an IT Student and Future Full Stack Developer</h2>
 
 ###
 
