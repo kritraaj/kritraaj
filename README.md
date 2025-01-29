@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   
   <!-- Dynamic Header with Typing Effect -->
