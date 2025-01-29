@@ -1,3 +1,4 @@
+
 <div align="center">
   
   <!-- Dynamic Header with Typing Effect (requires GitHub to support it) -->
@@ -42,7 +43,7 @@ const cheth = {
 <!-- Tech Stack Section -->
 <h2 align="center">🚀 Technology Arsenal</h2>
 
-<details open>
+<details>
 <summary>Languages</summary>
 <br>
 <p align="center">
@@ -50,7 +51,7 @@ const cheth = {
 </p>
 </details>
 
-<details open>
+<details>
 <summary>Development Tools</summary>
 <br>
 <p align="center">
@@ -58,7 +59,7 @@ const cheth = {
 </p>
 </details>
 
-<details open>
+<details>
 <summary>Design Tools</summary>
 <br>
 <p align="center">
@@ -117,4 +118,7 @@ const cheth = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <!-- Spotify Now Playing -->
-[![Spotify](https://novatorem-rust-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://novatorem-rust-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/ROCKTORTOISE)
+
+
+
