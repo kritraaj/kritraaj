@@ -12,12 +12,13 @@
 
 <!-- About Me Section -->
 <h2 align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     About Me
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
 <div align="center">
-  <img align="right" width="300" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"/>
+  
   
   <!-- Streak Stats -->
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true"/>
