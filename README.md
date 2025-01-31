@@ -23,7 +23,7 @@
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true"/>
   
   <!-- Hacking GIF -->
-  <img align="right" width="270" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"/>
+  <img align="right" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
 </div>
 
 ```javascript
