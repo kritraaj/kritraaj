@@ -70,7 +70,7 @@ const cheth = {
 <!-- Contribution Stats -->
 <h2 align="center">📊 My Contribution Graph</h2>
 
-[![Cheth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraajh&theme=modern-lilac2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
