@@ -13,9 +13,7 @@
 
 <!-- About Me Section -->
 <h2 align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     About Me
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
 <div align="center">
@@ -91,13 +89,10 @@ const cheth = {
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://chethina.vercel.app/raw/discord-id.txt">
+  <a href="https://discordapp.com/users/876728987550908466">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:lgrandiduchethina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@cheth_unknown">
+  <a href="https://www.youtube.com/@notstableguy">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
@@ -109,9 +104,9 @@ const cheth = {
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake.svg" />
 </picture>
 
 <!-- Footer -->
