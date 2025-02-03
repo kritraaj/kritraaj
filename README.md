@@ -47,7 +47,7 @@ const cheth = {
 <summary>Languages</summary>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,python" />
 </p>
 </details>
 
@@ -55,7 +55,7 @@ const cheth = {
 <summary>Development Tools</summary>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,webpack,babel" />
+    <img src="https://skillicons.dev/icons?i=vscode,github," />
 </p>
 </details>
 
@@ -63,7 +63,7 @@ const cheth = {
 <summary>Design Tools</summary>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=ps,canva" />
 </p>
 </details>
 
@@ -76,7 +76,7 @@ const cheth = {
 <h2 align="center">📈 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&show_icons=true&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00FFD1&text_color=ffffff&bg_color=0D1117" alt="Cheth's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&show_icons=true&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00FFD1&text_color=ffffff&bg_color=0D1117" alt="Kritraaj's GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
 </div>
 
