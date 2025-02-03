@@ -57,14 +57,6 @@ const kritraaj = {
 </p>
 </details>
 
-<details>
-<summary>Design Tools</summary>
-<br>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,canva" />
-</p>
-</details>
-
 <!-- Contribution Stats -->
 <h2 align="center">📊 My Contribution Graph</h2>
 
