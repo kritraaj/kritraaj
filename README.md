@@ -25,10 +25,10 @@
 </div>
 
 ```javascript
-const cheth = {
+const kritraaj = {
     pronouns: "He" | "Him",
     code: ["Python", "HTML", "CSS"],
-    currentFocus: "Front Stack Development",
+    currentFocus: "Front End Development",
     funFact: "I speak HTML & CSS fluently, still learning Javascript language 🐱",
     status: {
         learning: true,
