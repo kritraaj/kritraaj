@@ -33,10 +33,6 @@
 
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kritraaj&theme=modern-lilac2&hide_border=true"/>
-
 <!-- Tech Stack Section -->
 <h2 align="center">🚀 Technology Arsenal</h2>
 
