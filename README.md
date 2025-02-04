@@ -12,46 +12,30 @@
     About Me
 </h2>
 
-```html
-<html>
-    name: kritraaj = {
-    pronouns: "He" | "Him",
-    code: ["Python", "HTML", "CSS"],
-    currentFocus: "Front End Development",
-    funFact: "I speak HTML & CSS fluently, still learning Javascript language 🐱",
-    status: {
-        learning: true,
-        coding: true,
-        sleeping: true
-<html>
-```
+<hr>
+<pre>
+💻 I am a self taught Front-End Developer
+📚 I am a high school student
+📝 I have a strong interest in Front-End Development and Artificial Intelligence
+🔭 Working on: currently nothing
+🌱 Learning about Artificial Intelligence and Python in school
+🌟 Main languages: HTML5, CSS3
+🚩 Interested in Front-End Development
+🤔 I’m currently open for: nothing
+</pre>
+<hr>
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=kritraaj&style=flat-square&color=00D1FF" alt="Profile Views">
 
+<!-- Contribution Stats -->
+<h2 align="center">📊 My Contribution Graph</h2>
 
+[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
 <div align="center">
   <!-- Streak Stats -->
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kritraaj&theme=modern-lilac2&hide_border=true"/>
-  
-  <!-- Hacking GIF -->
-  <img align="right" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
-</div>
-
-```javascript
-const kritraaj = {
-    pronouns: "He" | "Him",
-    code: ["Python", "HTML", "CSS"],
-    currentFocus: "Front End Development",
-    funFact: "I speak HTML & CSS fluently, still learning Javascript language 🐱",
-    status: {
-        learning: true,
-        coding: true,
-        sleeping: true
-    }
-};
-```
 
 <!-- Tech Stack Section -->
 <h2 align="center">🚀 Technology Arsenal</h2>
@@ -71,11 +55,6 @@ const kritraaj = {
     <img src="https://skillicons.dev/icons?i=vscode,github," />
 </p>
 </details>
-
-<!-- Contribution Stats -->
-<h2 align="center">📊 My Contribution Graph</h2>
-
-[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
