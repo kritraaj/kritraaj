@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=kritraaj&style=flat-square&color=00D1FF" alt="Profile Views">
 
 <!--Discord Status -->
-<a href="https://discordapp.com/users/876728987550908466/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
+<a href="https://discordapp.com/users/876728987550908466/"><img src=""></a>
 
 <!-- About Me Section -->
 <h2 align="center">
