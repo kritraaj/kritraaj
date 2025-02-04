@@ -1,3 +1,6 @@
+ <!-- Animated Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</div>
 
 <div align="center">
   
@@ -6,10 +9,6 @@
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=kritraaj&style=flat-square&color=00D1FF" alt="Profile Views">
-  
-  <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</div>
 
 <!-- About Me Section -->
 <h2 align="center">
