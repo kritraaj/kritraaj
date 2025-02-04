@@ -10,6 +10,9 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=kritraaj&style=flat-square&color=00D1FF" alt="Profile Views">
 
+<!--Discord Status -->
+<a href="https://discord.com/users/498094279793704991/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
+
 <!-- About Me Section -->
 <h2 align="center">
     About Me
