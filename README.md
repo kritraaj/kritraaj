@@ -24,9 +24,6 @@
 </pre>
 <hr>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=kritraaj&style=flat-square&color=00D1FF" alt="Profile Views">
-
 <!-- Contribution Stats -->
 <h2 align="center">📊 My Contribution Graph</h2>
 
