@@ -3,16 +3,15 @@
 </div>
 
 <div align="center">
-  
+
   <!-- Dynamic Header with Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Kritraaj;Front+-+End+Developer;Always+Learning)](https://git.io/typing-svg)
 
 <!-- About Me Section -->
-<h2 align="left">
+<h2 align="left"> 
     About Me
 </h2>
 
-<hr>
 <pre>
 💻 I am a self taught Front-End Developer
 📚 I am a high school student
@@ -34,7 +33,7 @@
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
 <!-- Tech Stack Section -->
-
+<hr>
 <h2> 🛠️ My Skills </h2>
 
 ### 👉 Programming languages
@@ -89,7 +88,7 @@
 <br/>
 
 </details>
-
+<hr>
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
 
