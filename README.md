@@ -8,26 +8,24 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Kritraaj;Front+-+End+Developer;Always+Learning)](https://git.io/typing-svg)
 
 <!-- About Me Section -->
-<h2 align="left"> 
-    About Me
-</h2>
-
-<div align="right">
-    <img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark&roadmaps=frontend" alt="roadmap progress card" />
-  </div>
-
-<div align="left">
-<pre>
-💻 I am a self-taught Front-End Developer
-📚 I am a high school student
-📝 I have a strong interest in Front-End Development and Artificial Intelligence
-🔭 Working on: currently nothing
-🌱 Learning about Artificial Intelligence and Python in school
-🌟 Main languages: HTML5, CSS3
-🚩 Interested in Front-End Development
-🤔 I’m currently open for: nothing
-</pre>
-</div>
+<table>
+  <tr>
+    <td>
+      <h2>About Me</h2>
+      <ul>
+        <li>🧑‍💻 Self-taught Front-End Developer</li>
+        <li>🎓 High school student</li>
+        <li>🔥 Strong interest in Front-End Dev & AI</li>
+        <li>📚 Learning AI & Python in school</li>
+        <li>💻 Main languages: HTML5, CSS3</li>
+        <li>🧠 Open to: currently nothing</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark&roadmaps=frontend" alt="roadmap.sh"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <!-- Contribution Stats -->
