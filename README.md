@@ -12,8 +12,13 @@
     About Me
 </h2>
 
+<div align="right">
+    <img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark&roadmaps=frontend" alt="roadmap progress card" />
+  </div>
+
+<div align="left">
 <pre>
-💻 I am a self taught Front-End Developer
+💻 I am a self-taught Front-End Developer
 📚 I am a high school student
 📝 I have a strong interest in Front-End Development and Artificial Intelligence
 🔭 Working on: currently nothing
@@ -22,7 +27,8 @@
 🚩 Interested in Front-End Development
 🤔 I’m currently open for: nothing
 </pre>
-<hr>
+</div>
+</div>
 
 <!-- Contribution Stats -->
 <h2 align="center">📊 My Contribution Graph</h2>
