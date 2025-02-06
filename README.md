@@ -13,7 +13,7 @@
     <td>
       <h2>About Me</h2>
       <ul>
-        <li>🧑‍💻 Self-taught Front-End Developer</li>
+        <li>💻 I am a self-taught Front-End Developer</li>
         <li>🎓 High school student</li>
         <li>🔥 Strong interest in Front-End Dev & AI</li>
         <li>📚 Learning AI & Python in school</li>
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark&roadmaps=frontend" alt="roadmap.sh"/>
+      <img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark&roadmaps=frontend" alt="roadmap.sh"/>
     </td>
   </tr>
 </table>
