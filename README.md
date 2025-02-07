@@ -12,6 +12,7 @@
 <table>
   <tr>
     <td>
+      <pre>
       <ul>
         <li>💻 I am a self-taught Front-End Developer</li>
         <li>🎓 High school student</li>
@@ -20,6 +21,7 @@
         <li>💻 Main languages: HTML5, CSS3</li>
         <li>🧠 Open to: currently nothing</li>
       </ul>
+      </pre>
     </td>
     <td>
       <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark" alt="roadmap.sh"/></a>
