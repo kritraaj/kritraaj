@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark&roadmaps=frontend" alt="roadmap.sh"/>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
