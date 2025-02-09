@@ -99,7 +99,7 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&show_icons=true&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00FFD1&text_color=ffffff&bg_color=0D1117" alt="Kritraaj's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&theme=merko&show_icons=true&count_private=true" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=5&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
 </div>
 
@@ -107,6 +107,7 @@
   <a href="https://github.com/kritraaj">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritraaj&theme=merko" alt="kritraaj's GitHub Contribution"/>
   </a>
+	<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=merko&hide_border=false" />
 </p>
 
 <!-- Trophies -->
