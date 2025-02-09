@@ -100,6 +100,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=5&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/kritraaj">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritraaj&theme=merko" alt="kritraaj's GitHub Contribution"/>
+  </a>
+</p>
+
 <!-- Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
