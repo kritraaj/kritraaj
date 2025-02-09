@@ -1,34 +1,37 @@
  <!-- Animated Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </div>
-
 <div align="center">
+<p align="center">
+	<a href="https://github.com/kritraaj">
+		<img src="https://komarev.com/ghpvc/?username=kritraaj&label=Profile%20views&color=0e75b6&style=flat" alt="kritraaj" />
+	</a>
+	<a href="https://github.com/kritraaj">
+		<img src="https://img.shields.io/github/followers/kritraaj?label=Followers" alt="kritraaj" />
+	</a>
+</p>
 
   <!-- Dynamic Header with Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Kritraaj;Front+-+End+Developer;Always+Learning)](https://git.io/typing-svg)
 
 <!-- About Me Section -->
 <h2>About Me</h2>
-<table>
-  <tr>
-    <td>
-      <pre>
-      <ul>
-        <li>💻 I am a self-taught Front-End Developer</li>
-        <li>🎓 High school student</li>
-        <li>🔥 Strong interest in Front-End Dev & AI</li>
-        <li>📚 Learning AI & Python in school</li>
-        <li>💻 Main languages: HTML5, CSS3</li>
-        <li>🧠 Open to: currently nothing</li>
-      </ul>
-      </pre>
-    </td>
-    <td>
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark" alt="roadmap.sh"/></a>
-    </td>
-  </tr>
-</table>
+
+<pre>
+💻 I am a self taught Front-End Developer
+📚 I am a high school student
+📝 I have a strong interest in Front-End Development and Artificial Intelligence
+🔭 Working on: currently nothing
+🌱 Learning about Artificial Intelligence and Python in school
+🌟 Main languages: HTML5, CSS3
+🚩 Interested in Front-End Development
+🤔 I’m currently open for: nothing
+</pre>
 </div>
+
+<p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679ddd9cd7c9b4cc8bfc1363?variant=dark" alt="roadmap.sh"/></a>
+</p>
 
 <!-- Contribution Stats -->
 <h2 align="center">📊 My Contribution Graph</h2>
@@ -114,15 +117,21 @@
 </p>
 
 <!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-  <a href="https://discordapp.com/users/876728987550908466">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@notstableguy">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-  </a>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+      
 </p>
 
 <!-- Inspirational Quote -->
