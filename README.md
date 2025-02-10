@@ -18,9 +18,9 @@
 🌱 Learning about Artificial Intelligence and Python in school
 🌟 Main languages: HTML5, CSS3
 </pre>
-<a href="https://app.daily.dev/kritraaj"><img src="https://api.daily.dev/devcards/v2/QENHQkvU0B8Sk6bMUAVvb.png?r=qjh&type=wide" width="652" alt="Kritraaj Gulati's Dev Card"/></a>
 </div>
-
+<a align="left" href="https://app.daily.dev/kritraaj"><img src="https://api.daily.dev/devcards/v2/QENHQkvU0B8Sk6bMUAVvb.png?type=default&r=2ps" width="356" alt="Kritraaj Gulati's Dev Card"/></a>
+<a align="right" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark" width="356" alt="roadmap.sh"/></a>
 <p>
 
 </p
