@@ -60,6 +60,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kritraaj&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </p>
 
+<div align="center">
+<h3> 🗣 Languages </h3>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/usa-flag-round-circle-icon.png" width="30" />
+</div>
+
 <!-- Connect Section -->
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
