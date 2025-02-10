@@ -23,12 +23,7 @@
 
 <p>
 
-</p>
-
-<!-- Contribution Stats -->
-<h2 align="center">📊 My Contribution Graph</h2>
-
-[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
+</p
 
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
@@ -43,10 +38,10 @@
   </a>
 </p>
 
-<hr>
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
 
+[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&theme=merko&show_icons=true&count_private=true&hide_border=true" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=5&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
@@ -61,7 +56,6 @@
 
 <!-- Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kritraaj&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </p>
@@ -95,8 +89,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake.svg" />
 </picture>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer"/>
-
----
