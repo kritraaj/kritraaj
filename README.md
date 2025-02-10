@@ -8,22 +8,17 @@
 		<img src="https://img.shields.io/github/followers/kritraaj?label=Followers" alt="kritraaj" />
 	</a>
 
-
-  <!-- Dynamic Header with Typing Effect -->
-
 <!-- About Me Section -->
 <h2>About Me</h2>
 
-<pre>
+<pre align='left'>
 💻 I am a self taught Front-End Developer
 📚 I am a high school student
 📝 I have a strong interest in Front-End Development and Artificial Intelligence
-🔭 Working on: currently nothing
 🌱 Learning about Artificial Intelligence and Python in school
 🌟 Main languages: HTML5, CSS3
-🚩 Interested in Front-End Development
-🤔 I’m currently open for: nothing
 </pre>
+<a href="https://app.daily.dev/kritraaj"><img src="https://api.daily.dev/devcards/v2/QENHQkvU0B8Sk6bMUAVvb.png?r=qjh&type=wide" width="652" alt="Kritraaj Gulati's Dev Card"/></a>
 </div>
 
 <p>
