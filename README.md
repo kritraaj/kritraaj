@@ -1,18 +1,15 @@
- <!-- Animated Banner -->
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</div>
 <div align="center">
-<p align="center">
+<h1>
+  Hi👋, I am Kritraaj
 	<a href="https://github.com/kritraaj">
 		<img src="https://komarev.com/ghpvc/?username=kritraaj&label=Profile%20views&color=0e75b6&style=flat" alt="kritraaj" />
 	</a>
 	<a href="https://github.com/kritraaj">
 		<img src="https://img.shields.io/github/followers/kritraaj?label=Followers" alt="kritraaj" />
 	</a>
-</p>
+
 
   <!-- Dynamic Header with Typing Effect -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Kritraaj;Front+-+End+Developer;Always+Learning)](https://git.io/typing-svg)
 
 <!-- About Me Section -->
 <h2>About Me</h2>
