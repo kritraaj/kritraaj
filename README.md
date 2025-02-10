@@ -1,5 +1,5 @@
  <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </div>
 <div align="center">
 <p align="center">
@@ -30,7 +30,7 @@
 </div>
 
 <p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679ddd9cd7c9b4cc8bfc1363?variant=dark" alt="roadmap.sh"/></a>
+
 </p>
 
 <!-- Contribution Stats -->
