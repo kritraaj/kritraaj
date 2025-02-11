@@ -10,9 +10,9 @@
 <br><br>
 <!-- About Me Section -->
 	
-![About me](postspark_export_20.png)
+![About me](images/postspark_export_20.png)
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
-<img width="500" src="tweet.png">
+<img width="500" src="images/tweet.png">
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
