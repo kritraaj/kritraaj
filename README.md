@@ -12,6 +12,7 @@
 	
 ![About me](postspark_export_2025.png)
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
+<img width="500" src="tweet.png">
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
