@@ -1,4 +1,3 @@
-![About me](postspark_export.png)
 <div align="center">
 <h1>
   Hi👋, I am Kritraaj
@@ -8,8 +7,10 @@
 	<a href="https://github.com/kritraaj">
 		<img src="https://img.shields.io/github/followers/kritraaj?label=Followers" alt="kritraaj" />
 	</a>
-
+<br><br><br>
 <!-- About Me Section -->
+	
+![About me](postspark_export.png)
 <h2>About Me</h2>
 
 <pre align='left'>
