@@ -7,26 +7,11 @@
 	<a href="https://github.com/kritraaj">
 		<img src="https://img.shields.io/github/followers/kritraaj?label=Followers" alt="kritraaj" />
 	</a>
-<br><br><br>
+<br><br>
 <!-- About Me Section -->
 	
-![About me](postspark_export.png)
-<h2>About Me</h2>
-
-<pre align='left'>
-💻 I am a self taught Front-End Developer
-📚 I am a high school student
-📝 I have a strong interest in Front-End Development and Artificial Intelligence
-🌱 Learning about Artificial Intelligence and Python in school
-🌟 Main languages: HTML5, CSS3
-</pre>
-</div>
-<a align="left" href="https://app.daily.dev/kritraaj"><img src="https://api.daily.dev/devcards/v2/QENHQkvU0B8Sk6bMUAVvb.png?type=default&r=2ps" width="356" alt="Kritraaj Gulati's Dev Card"/></a>
-<a align="right" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679ddd9cd7c9b4cc8bfc1363?variant=dark" width="356" alt="roadmap.sh"/></a>
-<p>
-
-</p
-
+![About me](postspark_export_2025.png)
+[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
@@ -42,8 +27,6 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
-
-[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&theme=merko&show_icons=true&count_private=true&hide_border=true" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=4&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
