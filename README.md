@@ -46,7 +46,7 @@
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&theme=merko&show_icons=true&count_private=true&hide_border=true" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=5&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=4&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
 </div>
 
 <p align="center">
