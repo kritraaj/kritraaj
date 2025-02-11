@@ -1,4 +1,4 @@
-![About me]()
+![About me](postspark_export.png)
 <div align="center">
 <h1>
   Hi👋, I am Kritraaj
