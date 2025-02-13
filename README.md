@@ -37,7 +37,6 @@
   <a href="https://github.com/kritraaj">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritraaj&theme=merko" alt="kritraaj's GitHub Contribution"/>
   </a>
-	<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kritraaj&theme=merko&hide_border=true" />
 </p>
 
 <!-- Trophies -->
@@ -74,10 +73,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=modern-lilac2" alt="Random Dev Quote"/>
 </div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kritraaj/kritraaj/output/github-snake.svg" />
-</picture>
