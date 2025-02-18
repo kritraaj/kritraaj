@@ -31,7 +31,6 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kritraaj)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/kritraaj">
