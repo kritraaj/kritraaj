@@ -31,6 +31,7 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kritraaj)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kritraaj&theme=merko&show_icons=true&count_private=true&hide_border=true" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&langs_count=4&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
