@@ -16,6 +16,7 @@
 <a href="https://kritraaj.notion.site/Kritraaj-s-Portfolio-19290a5a7634808a9c18c5a87895c5ca">
 <img width="500" src="images/my-notion-face-customized.png">
 </a>
+
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
