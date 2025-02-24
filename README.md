@@ -12,8 +12,10 @@
 	
 ![About me](images/postspark_export_20.png)
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
-<img width="500" src="images/tweet.png">
 
+<a href="https://kritraaj.notion.site/Kritraaj-s-Portfolio-19290a5a7634808a9c18c5a87895c5ca">
+<img width="500" src="images/my-notion-face-customized.png">
+</a>
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
