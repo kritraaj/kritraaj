@@ -38,11 +38,6 @@
   </a>
 </p>
 
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kritraaj&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</p>
 
 <div align="center">
 <h3> 🗣 Languages </h3>
