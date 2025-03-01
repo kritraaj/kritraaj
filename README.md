@@ -11,6 +11,7 @@
 <!-- About Me Section -->
 	
 ![About me](images/postspark_export_20.png)
+
 [![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
 <!-- Tech Stack Section -->
