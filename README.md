@@ -12,8 +12,6 @@
 	
 ![About me](images/postspark_export_20.png)
 
-[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
-
 <!-- Tech Stack Section -->
 <div id="user-content-toc">
   <ul align="center">
@@ -30,14 +28,12 @@
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kritraaj)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritraaj&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kritraaj&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kritraaj&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kritraaj&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kritraaj&theme=github_dark&utcOffset=8)
+[![Kritraaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritraaj&theme=github-compact)](https://github.com/kritraaj/github-readme-activity-graph)
 
 <div align="center">
 <h3> 🗣 Languages </h3>
