@@ -33,12 +33,11 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kritraaj)](https://github.com/LordDashMe/github-contribution-stats/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritraaj&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/kritraaj">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritraaj&theme=merko" alt="kritraaj's GitHub Contribution"/>
-  </a>
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritraaj&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kritraaj&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kritraaj&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kritraaj&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kritraaj&theme=github_dark&utcOffset=8)
 
 <div align="center">
 <h3> 🗣 Languages </h3>
